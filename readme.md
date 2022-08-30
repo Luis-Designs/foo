@@ -11,3 +11,4 @@ echo "Patrice makes perfect"
 ---
 
 - [ ] More practice
+- [ ] Study git bisect
