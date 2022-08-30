@@ -1,4 +1,4 @@
-# Practise learn about how use git
+# Practice learn about how use git
 
 Here is a description about this file
 
